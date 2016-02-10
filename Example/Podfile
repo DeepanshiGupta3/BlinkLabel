@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'BlinkLabel_Example', :exclusive => true do
+  pod 'BlinkLabel', :path => '../'
+end
+
+target 'BlinkLabel_Tests', :exclusive => true do
+  pod 'BlinkLabel', :path => '../'
+
+  
+end
