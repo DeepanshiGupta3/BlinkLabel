@@ -1,19 +1,19 @@
 {
   "name": "BlinkLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkLabel",
+  "summary": "A Subclass on UILabel that provides a blink.",
+  "description": "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.",
+  "homepage": "https://github.com/DeepanshiGupta3/BlinkLabel",
   "license": "MIT",
   "authors": {
     "Deepanshi Gupta": "deepanshi.gupta@quovantis.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkLabel.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/DeepanshiGupta3/BlinkLabel.git",
+    "tag": "v0.1.0"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
   "requires_arc": true,
   "source_files": "Pod/Classes/**/*",

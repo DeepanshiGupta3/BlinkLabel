@@ -7,7 +7,7 @@
 //
 
 @import UIKit;
-
+@import BlinkLabel;
 @interface BlinkLabelViewController : UIViewController
 
 @end
